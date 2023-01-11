@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=안녕하세요!!%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=안녕하세요!!&fontSize=90" />
 <a href="https://velog.io/@kiminsee" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997
 ?style=flat-square&logo=Velog&logoColor=white"/></a>
 ### Hi there 👋
