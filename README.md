@@ -5,6 +5,7 @@
 <a href="https://velog.io/@kiminsee" target="_blank"><img src="https://img.shields.io/badge/#20C997-1A0000
 ?style=flat-square&logo=Velog&logoColor=white"/></a>
 ### 안녕하세요.
+🌱 
 
 <!--
 **kiminsee/kiminsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
