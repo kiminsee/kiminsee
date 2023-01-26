@@ -4,7 +4,7 @@
 ?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ### 안녕하세요.
-프론트엔드 주니어 개발자 송기민 입니다.
+프론트엔드 주니어 개발자 송기민 입니다...
 
 <!--
 **kiminsee/kiminsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
